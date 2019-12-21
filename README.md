@@ -29,24 +29,11 @@ Future Tweet Prediction File
 
 Will contain a file that has predicted a random users tweet based on what they previously said. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Attached is a picture containing the data from tweets:
+![alt text](https://github.com/JaimeGoB/Twitter-Sentimental-Analysis/blob/master/tweetData.png)
 
 Here is a picture of the the file containing the future tweet to predict:
+![alt text](https://github.com/JaimeGoB/Twitter-Sentimental-Analysis/blob/master/image.png)
 
 Here is the file containing the solved Mad Libs (Tweet Prediction File):
 
