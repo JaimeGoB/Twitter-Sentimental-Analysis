@@ -13,6 +13,7 @@ The program will also include analysis of the original data set from the tweets 
 Summary Statistics of Tweets file:
 
 ● Total Number of Tweets
+
 ● Total Number of Happy Tweets
 Within the happy Tweets
 ○ Average Number of words per tweet:
