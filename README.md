@@ -50,4 +50,4 @@ Here is a picture of the the file containing the future tweet to predict:
 
 Here is the file containing the solved Mad Libs (Tweet Prediction File):
 
-
+![alt text](https://github.com/JaimeGoB/Twitter-Sentimental-Analysis/blob/master/image.png)
